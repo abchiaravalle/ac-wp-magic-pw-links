@@ -22,8 +22,8 @@ class One_Click_Magic_Links_Hashed_Named {
 	 */
 	public function ocml_add_admin_menu() {
 		add_menu_page(
-			'Magic Links',
-			'Magic Links',
+			'AC - Magic Links',
+			'AC - Magic Links',
 			'manage_options',
 			'ocml_magic_links_hashed_named',
 			array($this, 'ocml_admin_page'),
