@@ -1,12 +1,9 @@
 <?php
 /*
-Plugin Name: One Click Magic Links (Hashed + Named Tokens + Revocation + Logging + UI)
-Plugin URI: https://example.com
-Description: Generates and manages one-click links that auto-set hashed WP password cookies, logs usage, and includes token names, copy-to-clipboard, and revoked tokens table. Now includes unified, filterable (via dropdown) usage logs below the main table.
-Version: 4.1
-Author: Your Name
-Author URI: https://example.com
-License: GPL2
+Plugin Name: One Click Magic Links for Native WP Password Protected Pages
+Description: Generates and manages one-click links that auto-set hashed WP password cookies, logs usage, and includes token names, copy-to-clipboard, and revoked tokens table. Now includes unified, filterable usage logs below the main table.
+Version: 1
+Author: Adam Chiaravalle @ ACWebDev, LLC.
 */
 
 if ( ! defined('ABSPATH') ) {
